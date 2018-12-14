@@ -1,1 +1,1 @@
-# ParameterControlSystem
+# ParameterControlSystem - микропроцессорное устройство контроля параметров хранения взрывчатых веществ
